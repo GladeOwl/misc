@@ -3,6 +3,7 @@
 import os
 import random
 
+# The Wallpaper Folder
 folder = ''
 
 def run():
